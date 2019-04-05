@@ -1,1 +1,1 @@
-# sliders-demo
+# siliders-demo
